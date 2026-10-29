@@ -1,0 +1,7 @@
+name: local_video_loi_phat
+title: Video Lời Phật
+description: Làm video dọc 9:16 phong cách Phật giáo/chữa lành từ ảnh của người dùng — ảnh động thật bằng AI, giọng đọc nam trầm ấm, phụ đề karaoke serif chạy theo từng chữ, nhạc nền tùy chọn. Dành để bàn giao cho người mới; khi họ gõ "Hãy hướng dẫn tôi", hướng dẫn họ cung cấp link kênh tham khảo, file ảnh, lời thoại, file nhạc rồi điền vào các chỗ trống [...].
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
